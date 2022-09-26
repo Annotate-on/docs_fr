@@ -16,4 +16,4 @@ permalink: /projects/projects-management
 - soit parce que présents dans un répertoire cloud ils ont été ajoutés dans cet Annotate-on
 Chaque projet peut être installé n’importe où dans l’ordinateur.
 
-![Image_projects](../../assets/img/Annotate_on_logo.png)
+![Image_projects](../assets/img/projects1.jpg)
