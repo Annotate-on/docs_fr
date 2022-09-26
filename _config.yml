@@ -3,7 +3,7 @@ description: Annotate-on est une annoteuse collaborative!
 theme: "just-the-docs"
 logo: "assets/img/Annotate_on_logo.png"
 
-url: 'https://annotate-on.github.io/'
+url: 'https://annotate-on.github.io'
 
 aux_links:
   "Annotate-on Repository": "https://github.com/Annotate-on/Annotate-on"
