@@ -21,7 +21,8 @@ donné d’images, partageant les mêmes tags. Ces tags permettent de faire des 
 onglets et de faire des sélections au sein du projet.
 
 Deux projets différents n’auront absolument rien en commun, ni images, ni tags, ni modèles annotatifs.
-Bibliothèque projet
+
+## Bibliothèque projet
 
 Chaque projet a sa propre bibliothèque d’images fixes et de vidéos.
 Le fonction de la bibliothèque est détaillé au chapitre « Bibliothèque »
