@@ -24,8 +24,7 @@ Chaque projet peut être installé n’importe où dans l’ordinateur.
 Cliquez sur le bouton de sélection à gauche du nom du projet : le projet s’ouvre aussitôt dans la bibliothèque.
 
 ## Créer un nouveau projet
-| Bouton | Description |
-| --- | --- |
+
 | ![Image_projects](../assets/img/projects_btn_create.jpg) | **Démarre la création d’un nouveau projet.** |
 
 Saisir le titre du nouveau projet dans le champ « Enter project title ».
