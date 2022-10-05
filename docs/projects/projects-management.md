@@ -25,7 +25,8 @@ Cliquez sur le bouton de sélection à gauche du nom du projet : le projet s’o
 
 ## Créer un nouveau projet
 |Bouton|Description           |
-|:---|:---|
+|:-------------|:------------------|
 |![Image_projects](../assets/img/projects_btn_create.jpg)|**Démarre la création d’un nouveau projet.**|
+
 
 Saisir le titre du nouveau projet dans le champ « Enter project title ».
