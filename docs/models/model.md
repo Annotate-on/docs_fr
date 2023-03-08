@@ -2,7 +2,7 @@
 title: Modèles
 layout: default
 lang: fr
-has_children: true
+has_children: false
 permalink: /models/
 ---
 
