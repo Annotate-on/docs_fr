@@ -39,7 +39,7 @@ Un mode "Annotation chrono-thématique" de vidéos qui permet de segmenter un fi
 
 Un mode "Event" pour annoter chronologiquement en direct un événement, en même temps que cet événement se déroule, parallèlement à sa captation vidéo ou audio. ce mode a été développé pour les procès filmés. Il est mis en oeuvre actuellement pour le procès des Attentats du 13 novembre 2015. L'évolution vers davantage de procès filmés rend a priori pertinent cette fonctionnalité.
 
-Un 3e mode sera développé en 2022 pour annoter et suivre des objets à l'intérieur d'une séquence filmée (un personnage par exemple).
+Un 3e mode sera développé en 2023 pour annoter et suivre des objets à l'intérieur d'une séquence filmée (un personnage par exemple).
 
 
 # Technologies
