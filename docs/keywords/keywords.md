@@ -29,7 +29,6 @@ Cliquer avec le bouton droit sur le mot-clé\
 Éditer\
 Modifer l'intitulé\
 Sauvegarder\
-
 ## Supprimer
 Cliquer avec le bouton droit sur le mot-clé
 Supprimer
