@@ -25,10 +25,10 @@ Saisir son intitulé (saisir le nom)
 Sauvegarder  
 
 ## Renommer
-Cliquer avec le bouton droit sur le mot-clé
-Éditer
-Modifer l'intitulé
-Sauvegarder
+Cliquer avec le bouton droit sur le mot-clé\
+Éditer\
+Modifer l'intitulé\
+Sauvegarder\
 
 ## Supprimer
 Cliquer avec le bouton droit sur le mot-clé
