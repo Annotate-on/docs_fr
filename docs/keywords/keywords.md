@@ -20,9 +20,9 @@ Ce "Gestionnaire de mots-clés" permet de :
 
 # Gérer les mots-clés (créer, renommer, déplacer, supprimer)
 ## Créer
-Bouton bleu "Ajouter un nouveau mot-clé"
-Saisir son intitulé (saisir le nom)
-Sauvegarder
+Bouton bleu "Ajouter un nouveau mot-clé"  
+Saisir son intitulé (saisir le nom)  
+Sauvegarder  
 
 ## Renommer
 Cliquer avec le bouton droit sur le mot-clé
