@@ -4,6 +4,7 @@ layout: default
 lang: fr
 has_children: true
 permalink: /keywords/
+nav_order: 1
 ---
 
 1. TOC
