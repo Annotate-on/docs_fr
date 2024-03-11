@@ -3,7 +3,7 @@ layout: default
 title: Modèles de caractères Xper ou Annotate
 parent: Models
 nav_order: 1
-permalink: /projects/annotate-models
+permalink: /models/annotate-models
 ---
 
 
