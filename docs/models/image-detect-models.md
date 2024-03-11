@@ -3,7 +3,7 @@ layout: default
 title: Modèles pour la détection automatique dans les images
 parent: Models
 nav_order: 1
-permalink: /projects/image-detect-models
+permalink: /models/image-detect-models
 ---
 
 
