@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modèles pour la détection automatique dans les images
-parent: Modèles
+parent: models
 nav_order: 2
 permalink: /models/image-detect-models
 ---
