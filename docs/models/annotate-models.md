@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modèles de caractères Xper ou Annotate
-parent: Models
+parent: Modèles
 nav_order: 1
 permalink: /models/annotate-models
 ---
